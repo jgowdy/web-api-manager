@@ -51,6 +51,6 @@
         "uri-js": "^3.0.2",
         "vue": "^2.5.16",
         "vue-template-compiler": "^2.5.16",
-        "web-ext": "^3.0.0"
+        "web-ext": "^3.2.1"
     }
 }
