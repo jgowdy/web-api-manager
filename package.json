@@ -44,13 +44,13 @@
         "eslint": "^5.16.0",
         "geckodriver": "^1.16.2",
         "gulp": "^4.0.2",
-        "mocha": "^4.1.0",
+        "mocha": "^10.2.0",
         "pre-commit": "^1.2.2",
         "selenium-webdriver": "^3.6.0",
         "sjcl": "^1.0.7",
         "uri-js": "^3.0.2",
         "vue": "^2.5.16",
         "vue-template-compiler": "^2.5.16",
-        "web-ext": "^3.0.0"
+        "web-ext": "^7.5.0"
     }
 }
